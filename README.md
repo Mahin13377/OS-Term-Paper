@@ -1,14 +1,5 @@
 # Learning-Augmented Page Replacement: Classical Algorithms Under Workload Shift
 
-**Course**: CSE-307 Operating Systems  
-**Section**: B  
-**Student Name**: Mahin Ar Rahman  
-**Student ID**: 202414064  
-**GitHub Repository**: https://github.com/Mahin13377/OS-Term-Paper  
-
-
----
-
 ## 1. Project Overview & Objective
 
 In virtual memory operating systems, page-replacement algorithms dictate which physical memory page to evict when a page fault occurs and all memory frames are occupied. While classical heuristics such as **FIFO** and **LRU** are widely studied under stable conditions, real-world execution frequently transitions across phases—such as shifting from tight computational loops to random memory accesses.

@@ -60,7 +60,6 @@ project/
 ├── visualization.py        # Generates clean, publication-ready figures
 ├── requirements.txt        # Cross-platform dependencies
 ├── README.md               # Complete project documentation
-├── AI_DISCLOSURE.md        # Course AI transparency disclosure statement
 ├── .gitignore              # Git ignore rules (.venv, __pycache__, *.pyc)
 │
 ├── algorithms/             # Modular, clean algorithm implementations
@@ -78,8 +77,8 @@ project/
 │   └── before_after_shift.png # Phase 1 vs. Phase 2 hit ratio comparison (4 frames)
 │
 └── report/
-    ├── report.md           # Concise term paper draft
-    └── CSE307_Term_Paper_202414064.pdf # Formatted 2-3 page PDF report
+    ├── CSE307_Term_Paper_202414064.docx # Formatted term paper report (Word)
+    └── report.md                       # Term paper markdown source
 ```
 
 ---
@@ -161,4 +160,4 @@ Below are the actual numbers measured on the 1,000-reference test trace:
 
 ## 10. AI Assistance Disclosure
 
-Course guidelines allow AI programming assistance subject to disclosure. Please refer to [AI_DISCLOSURE.md](AI_DISCLOSURE.md) for the complete disclosure statement.
+An AI coding assistant was used to assist with project scaffolding, debugging, and code formatting, in compliance with course guidelines. All experiments, simulations, and analyses were conducted and verified by the student.
